@@ -5,4 +5,4 @@ This repository contains files and exercises for Springboard's Data Science Inte
   2. Data Story: data visualization
   3. Inferential Statistics: hypothesis testing (confidence intervals and significance tests with different types of samples),                  regression and correlation, A/B testing)
   4. Machine Learning: supervised methods (linear and logistic regression, Naive Bayes) and unsupervised methods (clustering)
-  5. Final Project
+  5. Final Capstone Project
