@@ -1,4 +1,6 @@
 # Springboard Data Science Intensive Workshop
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/hildavar93/springboard-data-science-intensive-course)
+
 This repository contains files and exercises for Springboard's Data Science Intensive Workshop. The workshop is divided into 5 parts:
       
   1. Data Wranging: data cleaning with pandas, learning to work with different types of files, data wrangling with JSON and XML files,          and working with data in databases with SQL
