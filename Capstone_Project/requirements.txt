@@ -1,0 +1,4 @@
+seaborn
+folium
+ipywidgets
+jupyter nbextension enable --py --sys-prefix widgetsnbextension
