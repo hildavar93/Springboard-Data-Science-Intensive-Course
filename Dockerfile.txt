@@ -1,0 +1,18 @@
+FROM andrewosh/binder-base
+
+MAINTAINER Hilda Vargas <hildavar93@gmail.com>
+
+USER root
+
+RUN conda install -c conda-forge ipywidgets
+RUN pip install seaborn
+RUN pip install folium
+RUN pip install nbformat == 4.3
+
+
+
+
+
+
+
+
