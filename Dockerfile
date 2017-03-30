@@ -9,3 +9,4 @@ RUN jupyter nbextension enable --py --sys-prefix widgetsnbextension
 RUN pip install seaborn
 RUN pip install folium
 RUN pip install nbformat == 4.3
+RUN pip install numpy
