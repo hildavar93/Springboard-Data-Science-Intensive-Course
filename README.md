@@ -34,6 +34,7 @@ Unfortunately, Github and NBViewer do not support the rendering of live notebook
 - install folium
 
 Please click the youtube link below for a demo of my project.
+https://www.youtube.com/watch?v=f0g5v-Pt_sA
 
 Notes: 
 * The 5 data files on the S3 server are consolidated versions of the 42 original raw Citi Bike data files, based on the relevant metric. The first cell in each interactive notebook corresponds to the work I did on my local server to consolidate these larger files into the 5 smaller ones. If you try to run the code, you will get an error. If you would like to execute the code for this first cell, download the Citi Bike data from the link below, and replace the path with one that exists in your local server.
