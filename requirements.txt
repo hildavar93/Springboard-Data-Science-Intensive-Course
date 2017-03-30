@@ -1,0 +1,8 @@
+seaborn
+folium
+ipywidgets
+nbformat == 4.3
+
+
+
+
