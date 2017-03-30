@@ -22,7 +22,7 @@ For my Capstone Project, I set out to create an interactive dashboard through 5 
 -	What is the average trip duration per age range and gender?
 -	What are the most popular times of the day for ridership?
 
-I created 3 interactive plots and 2 interactive plots for the project. For questions 2-5, the user can choose the month(s) and year(s) during which the relevant metric is measured.
+I created 3 interactive plots and 2 interactive maps for the project. For questions 2-5, the user can choose the month(s) and year(s) during which the relevant metric is measured.
 
 Unfortunately, Github and NBViewer do not support the rendering of live notebooks, which is necessary to view this project, and binder would not rebuild correctly after updates to this repo. However, you can download the 5 interactive notebooks and view them on a local Jupyter server because the data is hosted on a public Amazon S3 server. The notebooks have the following dependencies:
 - install ipywidgets
