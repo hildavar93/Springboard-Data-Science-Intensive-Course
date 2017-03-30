@@ -34,6 +34,7 @@ Unfortunately, Github and NBViewer do not support the rendering of live notebook
 - install folium
 
 Please click the youtube link below for a demo of my project.
+
 https://www.youtube.com/watch?v=f0g5v-Pt_sA
 
 Notes: 
